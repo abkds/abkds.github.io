@@ -1,2 +1,17 @@
-name: Abhishek K Das, CS Graduate Student
+# Site settings
+title: Quanta
+email: das.k.abhishek@gmail.com
+description: musings 
+baseurl:  /
+url: https://abkds.github.io
+github_username:  abkds
+
+# Build settings
 markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
