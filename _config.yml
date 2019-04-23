@@ -15,7 +15,3 @@ highlighter: rouge
 paginate: 15
 paginate_path: "/blog/page:num/"
 
-collections:
-	papers:
-		output: true
-		permalink: /papers/:path/
