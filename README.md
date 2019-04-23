@@ -1,8 +1,6 @@
-## Author
+Personal Website generated using Jekyll and Github Pages
   
-**Abhishek K Das**
 
-*https://github.com/abkds*
 
 ## License
 
